@@ -1,4 +1,6 @@
-Friend's Library
+# Friend's Library
+
+## Description
 
 An app that creates a library of books, movies, and games that a group of friends are willing to share between each other.
 
@@ -13,3 +15,14 @@ If people get defriended, those items disappear from the bookshelf.
 People can formally introduce others to become friends.
 
 People can leave comments about the item and say thanks to the other people.
+
+## Models
+
+Users  have friends list of  Users
+
+Users have Items
+Items 
+ names
+ owner    user
+ location user
+
